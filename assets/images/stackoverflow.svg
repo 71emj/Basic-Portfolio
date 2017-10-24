@@ -1,17 +1,32 @@
-<?xml version="1.0" ?>
-<svg height="67px" version="1.1" viewBox="0 0 67 67" width="67px" xmlns="http://www.w3.org/2000/svg" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title/>
-    <desc/>
-    <defs/>
-    <g fill="none" fill-rule="evenodd" id="soical" stroke="none" stroke-width="1">
-        <g id="social" transform="translate(-973.000000, -438.000000)">
-            <g id="slices" transform="translate(173.000000, 138.000000)" />
-            <g fill="#CE6F2D" id="square-flat" transform="translate(173.000000, 138.000000)">
-                <path d="M802.995937,300 L857.004063,300 C858.658673,300 860,301.33731 860,302.995937 L860,357.004063 C860,358.658673 858.66269,360 857.004063,360 L802.995937,360 C801.341327,360 800,358.66269 800,357.004063 L800,302.995937 C800,301.341327 801.33731,300 802.995937,300 Z" id="square-39" />
-            </g>
-            <g fill="#FFFFFF" id="icon" transform="translate(182.000000, 150.000000)">
-                <path d="M827.934218,320.012758 L812.552382,316.846154 L811.769231,320.129843 L829.446713,323.769231 L830.096746,321.046843 L830.963976,321.461538 L832.538462,317.997229 L815.651408,309.923077 L814.076923,313.386431 L827.934218,320.012758 L827.934218,320.012758 Z M834.846154,321.461538 L834.846154,331.846154 L807.153846,331.846154 L807.153846,321.461538 L810.615385,321.461538 L810.615385,328.384615 L831.384615,328.384615 L831.384615,321.461538 L834.846154,321.461538 Z M811.769231,323.769231 L830.230769,323.769231 L830.230769,327.230769 L811.769231,327.230769 L811.769231,323.769231 Z M834.846154,314.962841 L832.542622,318 L817.538462,306.348945 L819.204645,304.153846 L820.924729,304.153846 L834.846154,314.962841 Z" id="stackoverflow" />
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 67 67"
+	 style="enable-background:new 0 0 67 67;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#CE6F2D;}
+	.st1{fill:#FFFFFF;}
+</style>
+<title></title>
+<desc></desc>
+<g id="soical">
+	<g id="social" transform="translate(-973.000000, -438.000000)">
+		<g id="slices" transform="translate(173.000000, 138.000000)">
+		</g>
+		<g id="square-flat" transform="translate(173.000000, 138.000000)">
+			<rect x="823.2" y="339.9" class="st0" width="20.6" height="3.9"/>
+			<polygon class="st0" points="846.4,333.5 844.6,337.4 843.7,336.9 842.9,339.9 823.2,335.9 824.1,332.2 841.2,335.8 825.8,328.3 
+				827.5,324.5 			"/>
+			<polygon class="st0" points="849,330.1 846.4,333.5 846.4,333.5 829.6,320.5 831.5,318 833.4,318 			"/>
+			<polygon class="st0" points="849,337.4 849,349 818,349 818,337.4 821.9,337.4 821.9,345.1 845.1,345.1 845.1,337.4 			"/>
+		</g>
+		<g id="icon" transform="translate(182.000000, 150.000000)">
+			<path id="stackoverflow" class="st1" d="M824.4,306h-1.9l-1.9,2.5l16.8,13h0l2.6-3.4L824.4,306z M814.2,327.9v3.9h20.6v-3.9
+				H814.2z M836.1,325.4v7.7h-23.2v-7.7H809V337H840v-11.6H836.1z M818.5,312.5l-1.8,3.9l15.5,7.4l-17.2-3.5l-0.9,3.7l19.7,4.1
+				l0.7-3l1,0.5l1.8-3.9L818.5,312.5z"/>
+		</g>
+	</g>
+</g>
+<path class="st0" d="M0,0v67h67V0H0z M49,49H18V37.4h3.9v7.7h23.2v-7.7H49V49z M46.4,33.5L46.4,33.5l-1.8,3.9l-1-0.5l-0.7,3h0.9v3.9
+	H23.2v-3.9h19.7l-19.7-4.1l0.9-3.7l17.2,3.5l-15.5-7.4l1.8-3.9L46.4,33.5l-16.8-13l1.9-2.5h1.9L49,30.1L46.4,33.5z"/>
 </svg>
